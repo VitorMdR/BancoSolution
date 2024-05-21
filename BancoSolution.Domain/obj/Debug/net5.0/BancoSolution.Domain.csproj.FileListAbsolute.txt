@@ -1,0 +1,24 @@
+C:\Source\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.deps.json
+C:\Source\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.dll
+C:\Source\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.csproj.AssemblyReference.cache
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.AssemblyInfoInputs.cache
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.AssemblyInfo.cs
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.csproj.CoreCompileInputs.cache
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.dll
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\refint\BancoSolution.Domain.dll
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Source\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\ref\BancoSolution.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.deps.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.csproj.AssemblyReference.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.AssemblyInfoInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.AssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\refint\BancoSolution.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\ref\BancoSolution.Domain.dll

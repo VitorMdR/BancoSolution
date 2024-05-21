@@ -1,0 +1,54 @@
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.exe
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.deps.json
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.runtimeconfig.json
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.runtimeconfig.dev.json
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.pdb
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.Domain.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.Infra.Data.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.Infra.Data.pdb
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.csproj.AssemblyReference.cache
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.AssemblyInfoInputs.cache
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.AssemblyInfo.cs
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.csproj.CopyComplete
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\refint\BancoSolution.ConsoleApp.dll
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.pdb
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.genruntimeconfig.cache
+C:\Source\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\ref\BancoSolution.ConsoleApp.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.AssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\refint\BancoSolution.ConsoleApp.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.exe
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.deps.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.runtimeconfig.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.ConsoleApp.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\bin\Debug\net5.0\BancoSolution.Infra.Data.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.csproj.CopyComplete
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\BancoSolution.ConsoleApp.genruntimeconfig.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\31-08\BancoSolution\BancoSolution.ConsoleApp\obj\Debug\net5.0\ref\BancoSolution.ConsoleApp.dll
